@@ -14,6 +14,10 @@
 
 ## Описание процесса тестирования
 
+В процессе тестирования использовались следующие артефакты:
+
+* [Требования](https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---keyvalidator)
+
 В качестве тестовых данных использовались данные [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md), [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 * **Перейдите на сайт adoptopenjdk.net** *- ссылка активная, по ней возможно совершить переход, сайт рабочий и содержит заявленные в инструкции данные*
